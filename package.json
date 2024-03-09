@@ -1,0 +1,30 @@
+{
+  "name": "shipmantra-node-sdk-alpha",
+  "version": "0.0.1",
+  "description": "SDK to maintain and access common types, interfaces, models, etc for Shipmantra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/golintu/shipmantra-node-sdk.git"
+  },
+  "keywords": [
+    "shipmantra",
+    "sdk"
+  ],
+  "author": "Susmit W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/golintu/shipmantra-node-sdk/issues"
+  },
+  "homepage": "https://github.com/golintu/shipmantra-node-sdk#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "mongoose": "^8.2.1"
+  }
+}
